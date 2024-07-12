@@ -18,16 +18,11 @@ P1 é uma disciplina de programação em C++ que introduz à POO (Programação 
 * Funções e Classes Genéricas;
 * Funções de alta ordem;
 * Depuração e Profiling.
-## Uso
-1. Clone o respositório.
-2. Abra os arquivos em um ambiente com compilador/suporte à linguagem C.
-3. Crie o `.exec` do código desejado.
-4. Sinta-se à vontade! :)
 ## Importante!
-A disciplina foi dividida em 3 unidades, onde cada uma tem seu diretório. Na 1ª e 2ª unidade foram feitas provas e listas como avaliação. A 3ª unidade foi um projeto, criar um Banco de Dados.
+A disciplina foi dividida em 3 unidades, onde cada uma tem seu diretório. Em cada unidade foram feitos projetos que estão disponibilizados da seguinte forma:
 * 1ª Unidade - `01-unidade`
+  * teste
+  *   
 * 2ª Unidade - `02-unidade`
 * 3ª Unidade - `03-unidade`
-  
-Todas as questões realizadas possuem um enunciado em `.md`, cada enunciado está disponível nos diretórios `Enunciados`. Além disso, não disponibilizei os `.exec` dos arquivos por questões de organização.
 > É isso, FIM!
