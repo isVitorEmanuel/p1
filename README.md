@@ -21,9 +21,9 @@ P1 é uma disciplina de programação em C++ que introduz à POO (Programação 
 ## Importante!
 A disciplina foi dividida em 3 unidades, onde cada uma tem seu diretório. Em cada unidade foram feitos projetos que estão disponibilizados da seguinte forma:
 * 1ª Unidade - `01-unidade`
-  *   
+  * /// TODO
 * 2ª Unidade - `02-unidade`
-  *   
+  * /// TODO  
 * 3ª Unidade - `03-unidade`
-  *   
+  * /// TODO  
 > É isso, FIM!
