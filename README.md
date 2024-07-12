@@ -21,9 +21,14 @@ P1 é uma disciplina de programação em C++ que introduz à POO (Programação 
 ## Importante!
 A disciplina foi dividida em 3 unidades, onde cada uma tem seu diretório. Em cada unidade foram feitos projetos que estão disponibilizados da seguinte forma:
 * 1ª Unidade - `01-unidade`
-  * /// TODO
+  * [t01-basic-exercise-list](https://github.com/isVitorEmanuel/p1/tree/main/01-unidade/t01-basic-exercise-list)
+  * [t02-graal](https://github.com/isVitorEmanuel/p1/tree/main/01-unidade/t02-graal)
+  * [t03-battleship-puzzle](https://github.com/isVitorEmanuel/p1/tree/main/01-unidade/t03-battleship-puzzle)
 * 2ª Unidade - `02-unidade`
-  * /// TODO  
+  * [t04-sloc-project](https://github.com/isVitorEmanuel/p1/tree/main/02-unidade/t04-sloc-project)
+  * [t05-vector](https://github.com/isVitorEmanuel/p1/tree/main/02-unidade/t05-vector)
+  * [t06-hangman](https://github.com/isVitorEmanuel/p1/tree/main/02-unidade/t06-hangman)
 * 3ª Unidade - `03-unidade`
-  * /// TODO  
+  * [t07-jogo-da-vida](https://github.com/isVitorEmanuel/p1/tree/main/03-unidade/t07-jogo-da-vida)
+  * [t08-snaze-game](https://github.com/isVitorEmanuel/p1/tree/main/03-unidade/t08-snaze-game)
 > É isso, FIM!
