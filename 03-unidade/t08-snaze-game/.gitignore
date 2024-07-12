@@ -1,0 +1,9 @@
+### C++ ###
+# Prerequisites
+*.d
+
+
+# User-specific stuff
+.idea/
+/cmake-build-debug/
+build
